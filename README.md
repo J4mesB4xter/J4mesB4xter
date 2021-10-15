@@ -4,8 +4,6 @@ My name is John Johnson, and I love to code.
 
 I've got a lot of random repositories, but I'm most proud of django-instant-rest; django-isntant-rest is essentially a leaner version of django rest framework that runs uber fast and is easy to use.
 
-I am currently looking for a job as a web developer/software engineer, so if my work interests you or would be of interest to someone you know: don't be afraid to contact me. my email is jjohns50@leeu.edu
-
 ### About Me...
 
 I enjoy games of all sorts (which is also the licorice I enjoy best); while I've mainly been able to play tabletop, board, and video games during the pandemic, I'm hopeful sports will resume for the average Joe soon enough. Poetry, food, and etymology are among my other passions as well. 
